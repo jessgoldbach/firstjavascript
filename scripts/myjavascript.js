@@ -6,4 +6,4 @@ yada yada
 
 //single line comment
 
-alert(*this is my first*);
+alert("this is my first");
